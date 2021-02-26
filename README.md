@@ -1,4 +1,4 @@
-# Wildbeast
+# Move.it
 Move It é um projeto para ajudar as pessoas a fazerem mais exercícios. #NextLevelWeek 4
 
 # :eyes: Visualizar projeto
