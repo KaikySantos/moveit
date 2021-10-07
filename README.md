@@ -1,26 +1,30 @@
 # Move.it
-Move It é um projeto para ajudar as pessoas a fazerem mais exercícios. #NextLevelWeek 4
+Move.it is a project to help people get more exercise. (This is a project developed during the Next Level Week, presented by @Rocketseat during February 22-28, 2021.)
 
-# :eyes: Visualizar projeto
-Clique no botão abaixo para ver o deploy do projeto na [Vercel](https://vercel.com)
+# :eyes: View project
+Click on the button below to see the project's deployment on [Vercel](https://vercel.com)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://kaiky-moveit.vercel.app)
 
 # :camera: Screenshot
 <img src="https://i.ibb.co/0tvnfYB/Opera-Instant-neo-2021-02-26-173827-kaiky-moveit-vercel-app.png" width="600px"></a>
 
-# :construction_worker: Como rodar ?
+# :construction_worker: How work ?
 ```bash
-# Clone o Repositório:
+# Clone this repository
 $ https://github.com/KaikySantos/moveit.git
 
-# Entre na pasta criada:
+# Access the project folder
 $ cd moveit
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 
-# Rode a aplicação
+# Run the application
 $ yarn dev
 ```
-Entre em http://localhost:3000/ para ver o resultado.
+Go to http://localhost:3000/ to see the result.
+
+<hr/>
+
+<p align="center">Made with 💙 by Kaiky Santos</p>
